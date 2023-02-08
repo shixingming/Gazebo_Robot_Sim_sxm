@@ -1,0 +1,14 @@
+material marker_6x6_1
+{
+  technique
+  {
+    pass
+    {      
+      texture_unit
+      {
+        texture ../textures/6x6_1000-1.png
+        scale 1 1
+      }
+    }
+  }
+}
